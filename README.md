@@ -1,3 +1,6 @@
+# link for gemini api key:
+https://aistudio.google.com/apikey
+
 # steps to run
 
 ## step 1:
